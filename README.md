@@ -6,7 +6,11 @@ Description any changes done
 
 Demo for git
 
+feature-readme-instruction
+## redme instruction added
+=======
 
 ## development
 
 1.open your index.html
+ main
